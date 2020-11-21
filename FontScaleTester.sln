@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontScaleTester", "FontScaleTester\FontScaleTester.csproj", "{4249FB10-5D4F-480A-9D47-A987AF88B79F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4249FB10-5D4F-480A-9D47-A987AF88B79F}.Debug|x86.ActiveCfg = Debug|x86
+		{4249FB10-5D4F-480A-9D47-A987AF88B79F}.Debug|x86.Build.0 = Debug|x86
+		{4249FB10-5D4F-480A-9D47-A987AF88B79F}.Release|x86.ActiveCfg = Release|x86
+		{4249FB10-5D4F-480A-9D47-A987AF88B79F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44825E8C-7732-41CB-8058-D5BD8FC70050}
+	EndGlobalSection
+EndGlobal
